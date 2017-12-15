@@ -1,0 +1,30 @@
+f0 = 
+f1 = 1
+f2 = 2
+f3 = 0
+f4 = 0,5
+f5 = dinheiro
+f6 = incremento
+f7 = preco a retirar (pastel e cenario)
+f8 = quantidade a ser aumentado no incremento
+f9 = 
+f10
+f11
+f12 = reservado para impressão
+
+
+t0 = contador vezes executou
+t1 = 
+t2 = reservado para programa da imagem
+t3 = 
+t4 = parametro entrada de tecla
+t5 = contador de fundos trocados
+t6 = contador upgrade pastel
+t7 = tecla que foi registrada
+t8
+t9
+
+s0
+s1
+s2
+s3
